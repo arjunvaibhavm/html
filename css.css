@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(71, 171, 171);
+}
+
+h5{
+    text-align: center;
+}
+div{
+    background-color: darkgray;
+    height:100px;
+    
+
+}
+
+span{
+    background-color: darkcyan;
+    height:200px;
+}
+#abc{
+    text-align: center;
+}
+
+.x{
+    text-decoration: underline;
+    background: lightblue;
+}
+
+
+
